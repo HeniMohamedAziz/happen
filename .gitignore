@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+build/
+dist/
+deployment/
+*.py[cod]
+*.spec
+!pysidedeploy.spec
+*.db
